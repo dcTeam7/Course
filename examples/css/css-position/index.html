@@ -8,12 +8,19 @@
     <title>Position CSS</title>
     
     <style>
-        .parent {}
+        .parent {
+            position: relative;
+        }
 
         .child-one {
-            position: relative;
-            top: 30px;
-            left: 10px;
+            position: absolute;
+            bottom: 10vh;
+            right: 10vw;
+            z-index: 1;
+            
+            
+            
+            
             /* bottom: ;
             top: ;
             right: ;
@@ -22,7 +29,11 @@
             */
         }
 
-        .child-two {}
+        .child-two {
+            position: relative;
+            z-index: 2;
+            
+        }
 
         .child-three {}
 
@@ -74,9 +85,9 @@
 
 <body>
 
-    <div class="parent" >
+    <div class="parent" style="font-weight: bolder">
         Parent
-        <div class="child-one child">One</div>
+        <div class="child-one child">Whatsapp</div>
         <div class="child-two child">Two</div>
         <div class="child-three child">Three</div>
     </div>
