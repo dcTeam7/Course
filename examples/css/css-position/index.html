@@ -11,9 +11,12 @@
         .parent {}
 
         .child-one {
-            position: relative;
-            top: 30px;
-            left: 10px;
+            display: flex;
+            align-items: center;
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            z-index: 2;
             /* bottom: ;
             top: ;
             right: ;
@@ -21,9 +24,11 @@
             z-index: ;
             */
         }
-
-        .child-two {}
-
+        
+        .child-two {
+            position: relative;
+            z-index: 2;
+        }
         .child-three {}
 
 
@@ -59,7 +64,7 @@
         }
 
         .child-one {
-            background-color: rgb(116, 255, 116);
+            /* background-color: rgb(116, 255, 116); */
         }
 
         .child-two {
@@ -76,7 +81,7 @@
 
     <div class="parent" >
         Parent
-        <div class="child-one child">One</div>
+        <div class="child-one child"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0.png" alt="" width="50"> WhatsApp</div>
         <div class="child-two child">Two</div>
         <div class="child-three child">Three</div>
     </div>
