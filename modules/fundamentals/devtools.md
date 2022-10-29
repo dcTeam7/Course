@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 # O que são DevTools?
 
 Praticamente todo navegador vem com ferramentas internas de desenvolvimento para a Web, chamadas DevTools. O DevTools é um conjunto de ferramentas de desenvolvimento da Web que aparece ao lado de uma página da Web renderizada no navegador. O DevTools fornece uma maneira eficiente de inspecionar e depurar páginas da Web e aplicativos Web. Você pode até mesmo editar arquivos de origem e criar projetos de site, tudo dentro do ambiente de DevTools.
@@ -62,3 +63,5 @@ Usando o DevTools, é possível alternar rapidamente entre as visualizações se
 ##
 
 Há diversas outras ferramentas úteis ao trabalho de um desenvolvedor, como as ferramentas desempenho, memória, aplicativo, segurança, fontes, contador de erros, e mais. Qualquer um que trabalhe com a Web deve ter um conhecimento básico dessa ferramenta. Quer você faça marketing, gerenciamento de produtos ou desenvolvimento de negócios, o DevTools pode melhorar muito seu produto final.
+
+</div>
