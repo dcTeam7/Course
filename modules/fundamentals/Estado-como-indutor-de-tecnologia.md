@@ -110,7 +110,7 @@ Até 2003, cerca de mais de 600 milhões de pessoas estavam conectadas à rede.
 
 O número de usuários ativos (os que acessam a rede regularmente) no mundo se aproximou da marca de 5 bilhões de pessoas em janeiro deste ano, de acordo com o estudo Digital 2022: Global Overview Report, publicado pelo site datareportal.com. Isso representa quase 63% da população do mundo. 4,95 bilhões de pessoas em 2022.
 
-<img alt="" src="https://user-images.githubusercontent.com/112489130/191990051-d98201ca-ac37-4feb-aff9-0eca283c832d.png" height="100%">
+<img alt="" src="https://user-images.githubusercontent.com/112489130/191990051-d98201ca-ac37-4feb-aff9-0eca283c832d.png" height="50%">
 
 </div>
 
