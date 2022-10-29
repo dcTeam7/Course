@@ -1,6 +1,6 @@
 # Conceito de Computação em Nuvem (Cloud Computing)
 
- <img src="https://piensoexisto.com/wp-content/uploads/2022/02/1_C-06JO_UVDCaE5zm_09J2w.gif">
+ <img src="https://github.com/fadetobash/fadetobash/blob/main/images/Nuvem.gif?raw=true">
 
 <p align="justify"><em> 
 “A nuvem não é uma entidade física, mas sim uma vasta rede de servidores remotos em todo o mundo que estão conectados e destinados a operar como um único ecossistema. Em vez de acessar arquivos e dados de um computador pessoal ou local, você os acessa on-line de qualquer dispositivo com acesso à Internet - as informações estarão disponíveis em qualquer lugar e a qualquer momento que você precisar” - Microsoft Azure
@@ -19,9 +19,10 @@ Provedores de nuvem como AWS, Azure, Google Cloud, auxiliam a maioria dos servi�
   
 
 ### Um exemplo contextual:
-  
+
+<img src="https://github.com/fadetobash/fadetobash/blob/main/images/RedBullCrash.gif?raw=true" width="40%" />
+
 **Formula 1**
-<img src="https://github.com/fadetobash/fadetobash/blob/main/assets/ezgif-4-db248b6821.gif?raw=true">
 
 <p align="justify"> 
 Como a maioria das transmissões de eventos esportivos, a F1 fornece informações, por exemplo, na tela de nossos televisores, as condições climáticas, pit stops, estatísticas dos pilotos e seus times, ultrapassagem, temperatura de pneus e etc. Como isso é alcançado é bem interessante. Eles armazenam mais de 65 anos de dados históricos de corrida e estatísticas críticas de desempenho em um serviço de nuvem na plataforma AWS - Amazon Web Services, chamado S3 (Serviço de armazenamento de alta disponibilidade de dados, segurança e performance), cientistas de dados da F1 realizam consultas de dados através de um processo de deep learning auxiliados por outro serviço de nuvem, o AWS Sage Maker (Serviço que facilita a criação, treinamento e implantação de modelos de machine learning), e assim geram os dados que chegam às nossas telinhas. 
@@ -31,7 +32,7 @@ Veja em [Porque a F1 escolhe a AWS](https://aws.amazon.com/pt/f1/)
 
 # Os 3 modelos de implantação da nuvem 
 
-<img src="https://github.com/fadetobash/fadetobash/blob/main/assets/hybrid-multi-cloud-global-representation-scaled.jpg?raw=true">
+<img src="https://github.com/fadetobash/fadetobash/blob/main/images/hybrid-multi-cloud-global-representation-scaled.webp?raw=true">
 
 
  **Nuvem Pública (_Public Cloud_)**
@@ -209,19 +210,16 @@ Em um mundo onde a tecnologia cresce exponencialmente, como na robótica, inteli
 ### Bibliografia
 
   
-
 What is the cloud?
 
 [https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud/](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud/)
 
   
-
 A Holistic Introduction to the Cloud
 
 [https://levelup.gitconnected.com/cloud-curious-a-holistic-introduction-to-the-cloud-5af4d317f822](https://levelup.gitconnected.com/cloud-curious-a-holistic-introduction-to-the-cloud-5af4d317f822)
 
   
-
 4 Types of Cloud Computing
 
 [https://www.goodcore.co.uk/blog/types-of-cloud-computing/](https://www.goodcore.co.uk/blog/types-of-cloud-computing/)
