@@ -7,7 +7,7 @@ Um exemplo dessa relação é quando utilizamos aplicativos de streaming, como a
 
 <div>
 
-<img src="https://media.discordapp.net/attachments/1019607462015414372/1023988692710338610/unknown.png?width=641&height=427" height="230" width=" 400" align="center">
+<img src="https://media.discordapp.net/attachments/1019607462015414372/1023988692710338610/unknown.png?width=641&height=427" height="230" width="400" align="center">
 <br>
 <br>
 
