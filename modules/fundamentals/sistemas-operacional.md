@@ -2,7 +2,7 @@
 ![Image](https://miro.medium.com/max/720/1*zjpA46uhnmbENYQ69T0mbw.png)
 
 ### A História dos Sistemas Operacionais
-<a href="https://martinfowler.com"><img alt="Martin Fowler" src="https://img.ibxk.com.br/2013/7/materias/203126194158.jpg" align="" width="50%"></a>
+<a href="https://velhobit.com.br/editorial/sistemas-operacionais-parte-1-historia.html"><img alt="Sistemas Operacionais e a sua História" src="https://img.ibxk.com.br/2013/7/materias/203126194158.jpg" align="" width="50%"></a>
 
    Nos início os computadores não possuíam sistema operacional, existia apenas hardware do computador. Operador e programador da máquina eram uma só pessoa, todas as instruções necessárias ao funcionamento do hardware eram realizadas manualmente. Desta forma, todo o controle do sistema era feito através de botões e displays no console e o operador/programador monitorava a execução de um programa em tempo real. Sendo assim, os sistemas operacionais foram 
 criados com a finalidade de tornar mais fácil e mais eficiente a utilização do computador.
