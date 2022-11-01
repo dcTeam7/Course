@@ -99,8 +99,7 @@ Funciona bem mais como uma ferramenta de debug para as API ‘s. Ele reenvia a �
 ##### <u>Connect</u>
 Dentre os métodos, esse é o mais específico e impopular, é responsável por conectar a API com algum servidor proxy. É mais utilizado para tentar a conexão com sites que possuem segurança e que não permitem conexão direta, dessa forma, é preciso que se conecte a um servidor proxy para depois conseguir acessar seu destino.
 
-video:
-https://photos.google.com/share/AF1QipM9F_EuNl5GTtcnv_DUsQlFSJMfQ7LYe2rKwq_Md9-nUFAQ133KjI2f_ppuZ35hAg/photo/AF1QipMopz6m8vnI_aRiQJUOO_yajTbsv79TdOcEBvFc?key=MjRGUWNrVWhlcWhvd3ZyYzh2ekNTekZNNXhucWVB
+# Vídeo: <a href="https://photos.google.com/share/AF1QipM9F_EuNl5GTtcnv_DUsQlFSJMfQ7LYe2rKwq_Md9-nUFAQ133KjI2f_ppuZ35hAg/photo/AF1QipMopz6m8vnI_aRiQJUOO_yajTbsv79TdOcEBvFc?key=MjRGUWNrVWhlcWhvd3ZyYzh2ekNTekZNNXhucWVB" target="blank">Clique Aqui<a/>
 
 
 </html>
