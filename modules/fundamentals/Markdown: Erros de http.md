@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 # **O que é HTTP Error?**
 
 Error HTTP são os códigos HTTP que se referem a erros de cliente e servidor, respectivamente, e impedem o carregamento de um site.
@@ -93,17 +95,8 @@ Se um desses limites for atingido, o site pode apresentar o erro 503 Service Una
 
 ![Image](https://user-images.githubusercontent.com/112489062/192128573-330e8b2e-ab65-4084-867d-1b402bb47b88.png)
 
-
-
 Link do Vídeo.
 
-https://drive.google.com/file/d/1-00duXYqRDpMnVX1__lyxzG6IHZAOjdZ/view?usp=sharing
+ttps://drive.google.com/file/d/1-00duXYqRDpMnVX1__lyxzG6IHZAOjdZ/view?usp=sharing
 
-
-
-
-
-
-
-
-
+</div>
