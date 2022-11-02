@@ -5,7 +5,7 @@ Esse sistema é a base da comunicação que existe em toda a Internet em que os 
 Qualquer servidor que você escolha para hospedar o site da sua empresa tem um programa projetado para receber solicitações HTTP. Portanto, o navegador que você usa é um cliente HTTP que envia solicitações constantemente ao seu servidor
 Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL. Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que, nada mais são, do que os sites que acessamos na Internet <br/>*
 
-![image](https://user-images.githubusercontent.com/112488985/192119610-cc844054-d66e-4fff-950c-def3ca0ca9aa.png)
+<img src='https://user-images.githubusercontent.com/112488985/192119610-cc844054-d66e-4fff-950c-def3ca0ca9aa.png' alt="print de tela mostrando que o site não é seguro">
 
 
 # *HTTPS* <img src='https://retinacomunicacao.com/wp-content/uploads/2017/04/ssl-encryption-icon-png-0.jpg?w=340' height="60px" width="80,16px" align="center"  /></a>
