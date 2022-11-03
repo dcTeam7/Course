@@ -15,7 +15,7 @@ Digitando o site na barra de endereços do seu navegador (https://digitalcollege
 *1 Seu domínio é precedido por “https://”* <br/>
 *2 Há um símbolo de cadeado ao lado do seu domínio* <br/> 
 
-![image](https://user-images.githubusercontent.com/112488985/192115723-a26e301e-20b8-4b2b-a78c-0ae692155654.png)
+<img src='https://user-images.githubusercontent.com/112488985/192115723-a26e301e-20b8-4b2b-a78c-0ae692155654.png' alt="print de tela da página da digital college com enfatização no https.">
 
  # *HTTP Vs HTTPS*  
 
