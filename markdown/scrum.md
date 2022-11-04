@@ -30,6 +30,7 @@ Embora o Scrum sobre o qual estou falando seja mais usado pelas equipes de desen
 
 
 
+
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 80%);" src="https://i1.wp.com/jordanjob.me/wp-content/uploads/2015/12/Scrum-v2.0-GIF-1000px.gif?resize=1000%2C750" width="710" height="382">
 
 
@@ -80,6 +81,89 @@ As equipes do Scrum concluem a prática toda. Elas são as campeãs em práticas
 Os membros da equipe têm diferentes conjuntos de competências, que são passadas de um para o outro para que nenhum deles se torne um obstáculo para a entrega do trabalho. Equipes fortes do Scrum se organizam e abordam os projetos impondo claramente o "nós". Todos os membros da equipe se ajudam para garantir a conclusão bem-sucedida do sprint.
 
 A equipe do Scrum direciona o plano para cada sprint. Eles fazem a previsão de quanto trabalho acreditam que podem concluir durante a iteração usando sua velocidade histórica como um guia. Manter fixa a duração da iteração fornece feedback importante para a equipe de desenvolvimento no seu processo de estimativa e entrega, que, por sua vez, faz previsões cada vez mais precisas ao longo do tempo.
+
+
+## ARTEFATOS DO SCRUM
+
+Os artefatos do Scrum representam trabalho ou valor. São concebidos para maximizar a transparência
+da informação chave. Assim, todos os que os inspecionam têm a mesma base para adaptação.  
+11
+Cada artefato contém um compromisso, para assegurar que fornece informação que aumenta a
+transparência e o foco, contra o qual o progresso pode ser medido: 
+
+● Para o Product Backlog é Product Goal.<p>
+● Para o Sprint Backlog é o Sprint Goal.<p>
+● Para o Increment é a Definition of Done.<p>
+
+Estes compromissos existem para reforçar o empirismo e os valores do Scrum para a Scrum Team e os
+seus stakeholders.
+
+### Product Backlog
+
+O Product Backlog é uma lista emergente e ordenada do que é necessário para melhorar o produto. É a
+única fonte de trabalho levada a cabo pela Scrum Team.  
+Os artigos do Product Backlog que podem ser feitos pela Scrum Team dentro de um Sprint, são
+considerados prontos para seleção num evento de Sprint Planning. Normalmente adquirem este grau de
+transparência após as atividades de refinamento. O refinamento do Product Backlog é o ato de
+decompor e definir melhor os itens do mesmo em itens mais pequenos e mais precisos. Esta é uma
+atividade contínua para acrescentar detalhes, tais como descrição, ordenação e tamanho. Os atributos
+variam frequentemente com o domínio de trabalho.
+Os Developers que irão fazer o trabalho são responsáveis pelo dimensionamento. O Product Owner
+pode influenciar os Developers ajudando‐os a compreender e a selecionar trade‐offs. 
+
+Compromisso: Product Goal
+
+O Product Goal descreve um estado futuro do produto que pode servir de meta para a Scrum Team
+delinear o seu planeamento. O Product Goal está no Product Backlog. O resto do Product Backlog surge
+para definir "o que" o Product Goal irá cumprir.  
+Um produto é um veículo para entregar valor. Tem um limite claro, stakeholders conhecidos,
+utilizadores ou clientes bem definidos. Um produto pode ser um serviço, um produto físico, ou
+algo mais abstrato.
+
+O Product Goal é o objetivo a longo prazo para a Scrum Team. Devem cumprir (ou abandonar) um
+objetivo antes de assumirem o próximo. 
+
+### Sprint Backlog
+
+O Sprint Backlog é um plano de e para os Developers. É uma imagem altamente visível e em tempo real
+do trabalho que os Developers planeiam realizar durante o Sprint, a fim de alcançar o Sprint Goal.
+Consequentemente, o Sprint Backlog é atualizado durante o Sprint à medida que se vai aprendendo
+mais. Deverá ter detalhe suficiente para que possam inspecionar o seu progresso na Daily Scrum. 
+
+Compromisso: Sprint Goal
+
+O Sprint Goal é o único objetivo para o Sprint. Embora o Sprint Goal seja um compromisso dos
+Developers, proporciona flexibilidade em termos do trabalho exato necessário para o alcançar. O Sprint
+Goal também cria coerência e foco, encorajando a Scrum Team a trabalhar em conjunto e não em
+iniciativas separadas.
+O Sprint Goal é criado durante o Sprint Planning e depois adicionado ao Sprint Backlog. Durante o seu
+trabalho durante o Sprint, os Developers mantêm o Sprint Goal em mente. Se o trabalho se revelar
+diferente do que esperavam, colaboram com o Product Owner para negociar o âmbito do Sprint Backlog
+dentro do Sprint sem afetar o Sprint Goal.
+
+### Increment
+
+Um Increment é um degrau concreto em direção ao Product Goal. Cada Increment é acrescentado a
+todos os Increments anteriores e cuidadosamente verificado, assegurando que todos os Increments
+funcionam em conjunto. A fim de fornecer valor, o Increment deve ser utilizável.
+Podem ser criados multiplos Increments dentro de um Sprint. A soma dos Increments é apresentada na
+Sprint Review, apoiando assim o empirismo. No entanto, um Increment pode ser entregue aos
+stakeholders antes do fim do Sprint. A Sprint Review nunca deve ser considerada como uma porta para
+a entrega de valor.   
+O trabalho não pode ser considerado parte de um Increment a menos que cumpra a Definition of Done.
+
+Compromisso: Definition of Done
+
+A Definition of Done é uma descrição formal do estado do Increment quando este cumpre as medidas
+de qualidade exigidas para o produto.  
+No momento em que um item do Product Backlog satisfaz a Definition of Done, nasce um Increment.
+
+A Definition of Done cria transparência ao proporcionar a todos uma compreensão partilhada do
+trabalho que foi concluído como parte do Increment. Se um item de Product Backlog não cumpre a
+Definition of Done, não pode ser lançado ou mesmo apresentado na Sprint Review. Em vez disso,
+regressa ao Product Backlog para consideração futura. 
+
+
 
 [Scrum Vídeo](https://1drv.ms/v/s!Ap0pvh7sj3AYhJd9ZsCsoTC36xz0ww?e=g8xuUx)
 
