@@ -14,3 +14,9 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 ##
 
+## Atomic commits
+
+Um `atomic commit` é um `commit` que tem como objetivo corrigir, **implementar ou refazer algo que está pronto e com seus arquivos dentro de um mesmo contexto.** Usando essa abordagem você garante que seu histórico do git seja mais organizado tornando possível navegar pelo histórico com menos dificuldade e facilitando achar os commits que você deseja.
+
+Em resumo, a cada correção ou implantação individual se deve executar um processo de `commit.`
+
