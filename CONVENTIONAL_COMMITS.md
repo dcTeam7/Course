@@ -14,3 +14,25 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 ##
 
+## Qual conteúdo deve conter um Commit Inicial?
+
+Mesmo o commit inicial sendo o primeiro em um projeto, ainda é um commit como outro qualquer. Logo, deve conter algum conteúdo.
+
+Mas qual arquivo devo incluir neste commit? Isso depende se o projeto está começando do zero ou se já tem algum código escrito ou um conjunto de arquivos de código que serão usados como ponto de partida.
+
+Para projetos que começam do zero, tipicamente não existe nenhum arquivo com código ainda, nesse caso o commit inicial vai conter um único arquivo chamado README.md, que será simplesmente um arquivo descrevendo o propósito do projeto.
+
+Para projetos que já tem algum arquivo ou código, o commit inicial normalmente inclui todos esses arquivos de uma vez. Esse commit funciona como uma versão inicial do projeto no Git. Os desenvolvedores vão trabalhar a partir disso para adicionar novas funções e funcionalidades ao projeto.
+
+Dito isso, um commit inicial deve ser feito como se o projeto já estivesse em andamento.
+
+ex.:
+Add README.md
+
+Initialize Project
+
+Add README.md
+Add .gitignore
+
+##
+
