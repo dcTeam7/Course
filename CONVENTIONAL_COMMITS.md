@@ -14,3 +14,12 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 ##
 
+
+## O que eu faço se acidentalmente usar o tipo errado de commit?
+
+
+### - Quando você usou um tipo da especificação, mas não do tipo correto, por exemplo ***`fix`*** em vez de ***`feat`***
+Antes do merge ou release com o erro, recomendamos o uso de `git rebase -i` para editar o histórico do commit. Após o release, a limpeza será diferente de acordo com as ferramentas e processos que você utiliza.
+
+### -  Quando você usou um tipo que não é da especificação, por exemplo ***`feet`*** em vez de ***`feat`***
+Na pior das hipóteses, não é o fim do mundo se um commit não atender à especificação do Conventional Commits[[2]][Conventional Commits]. Significa apenas que o commit será ignorado por ferramentas baseadas nessa especificação.
