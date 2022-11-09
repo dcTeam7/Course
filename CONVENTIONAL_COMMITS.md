@@ -14,3 +14,7 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 ##
 
+## Utilização dos Types + Identificação sobre Issues
+
+Acredito que a padronização Commits seja essencial para organização de um trabalho em equipe ou ate mesmo individual, uma tarefa dado a uma equipe, após sua divisão entre os membros terá com certeza vários commits, ate por que a cada avanço na tarefa precisamos comita, para que não se torne uma tarefa digamos chata de se fazer, com descrição longa do que foi feito durante o processo que antecede o Commit, acredito que os valores primordiais seria o uso do "type","descrição","Id Issues",mesmo com essa informações acima venho da uma sugestão, algo que não sei se existe mais os type deveria seguir algo parecido com Label referente as cores para uma possível prioridade Exemplo: type fix trata-se de uma possível correção de bugs no caso assumiria um cor em vermelho.
+
