@@ -12,5 +12,7 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
 
-##
+#
+
+Uma boa mensagem de commit deve conter a descrição do que foi feito. Dessa forma fica mais fácil identificar as mudanças sem que tenham que ver o código. Mesmo em um projeto pessoal uma boa mensagem de commit é importante. Ainda mais se é um projeto que você não trabalha com frequência.
 
