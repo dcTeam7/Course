@@ -11,7 +11,7 @@ Sei que pode parecer estranho ao primeiro momento escrever a mensagem no imperat
 Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no exemplo representado acima, o resultado seria:
 
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
-
+# 
 ## O que são e como indicar as breaking changes?
 
 Entre os tipos de commits que devem estar bem explicados estão as `BREAKING CHANGES`, ou quebra de compatibilidade. Elas ocorrem quando uma alteração feita leva à quebra na execução do código, que não funciona mais ao consultar a API do projeto seguindo uma padronização anterior.
