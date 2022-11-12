@@ -12,7 +12,8 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
 
-# Utilizar emoji nos commits
+#
+## Utilizar emoji nos commits
 
 Os emojis podem ajudar muito a dar um pouco de personalidade nos commits e até a melhorar a leitura, já que conseguimos saber qual o tipo do commit em apenas bater o olho.
 Por exemplo :
