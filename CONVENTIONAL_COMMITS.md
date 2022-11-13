@@ -12,5 +12,9 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
 
-##
+
+
+## O que eu faço se o commit estiver de acordo com mais de um dos tipos?
+
+### Volte e faça vários commits sempre que possível. Parte do benefício do Conventional Commits é a capacidade de nos levar a fazer commits e PRs de forma mais organizada.
 
