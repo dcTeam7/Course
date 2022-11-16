@@ -13,7 +13,6 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
 
 ##
-___
 
 ## Utilização de prefixos: Types
 
