@@ -12,5 +12,5 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 
 > "If applied, this commit will change the markup", o que faz muito mais sentido do que: "If applied, this commit will changed the markup"
 
-##
-
+## O commitlint verifica se as suas mensagens estão de acordo com o conventional commit format, e isso ajuda na leitura de cada commit que foi feito.
+link: https://medium.com/@kaisukidev/3-boas-pr%C3%A1ticas-essenciais-para-um-bom-commit-12c3e0518933
