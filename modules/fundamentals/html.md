@@ -1,3 +1,7 @@
+<div align='justify'>
+
+
+
 # HTML - _HyperText Markup Language_
 
 ## Criação do HTML
@@ -130,3 +134,6 @@ Resultado:
 
 
 https://user-images.githubusercontent.com/112489109/192167258-607e3cb7-6cdf-4e8b-a9bc-58df1bc5d77b.mp4
+
+
+</div>
