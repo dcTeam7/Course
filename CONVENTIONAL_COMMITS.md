@@ -17,7 +17,7 @@ Em português: “Se aplicado, esse commit irá [mensagem]”. Se pensarmos no e
 ## Utilização de prefixos: Types
 
 <p align="justify">
-Seguindo as especificações do <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">conventional commits</a>, é importante a prática de utilizar prefixos(types) de identificação em commits. Em destaque, ao se criar issues, favorecendo a compreensão das partes envolvidas do que está sendo contribuído, seja em correções, novas funcionalidades e etc. Além da importância na automação de changelogs. </p>
+Seguindo as especificações do <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">conventional commits</a>, é importante a prática de utilizar prefixos (types) de identificação em commits. Em destaque, ao se criar issues, assim,  favorecendo a compreensão das partes envolvidas, do que está sendo contribuído, seja em correções, novas funcionalidades e etc. Além da importância na automação de changelogs. </p>
 
 <a href="http://karma-runner.github.io/0.10/dev/git-commit-msg.html">Abaixo segue alguns prefixos(types) padrões</a>
 
